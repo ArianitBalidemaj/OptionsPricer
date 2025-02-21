@@ -55,6 +55,7 @@ options-pricing-playground/
 │── README.md          # Project overview and setup instructions
 │── requirements.txt   # Python dependencies
 │── Dockerfile         # Deployment configuration
+```
 
 ## Installation
 # Clone the repository
