@@ -1,0 +1,29 @@
+# Core Dependencies
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+plotly
+
+# Financial Data Retrieval
+yfinance
+arch  # For GARCH volatility modeling
+
+# Options Pricing
+mibian  # Black-Scholes, Garman-Kohlhagen, etc.
+
+# Backend (if using Flask/FastAPI)
+flask
+fastapi
+uvicorn
+
+# Interactive UI
+streamlit
+dash
+
+# Machine Learning / Optimization (optional, for IV calculations)
+scikit-learn
+
+# Deployment (optional)
+docker
